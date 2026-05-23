@@ -6,6 +6,10 @@ Overview
 
 AOL Desktop Gold is an advanced all-in-one desktop software that combines email, browsing, security, and premium services into a single interface. It is designed for users who want a secure and stable environment for communication and online activities.
 
+<a href="https://myaolgold.github.io/" style="background-color:Green; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; display:inline-block;">
+  Get Started with AOL Gold
+</a>
+
 If you already have an account, you can easily activate and reinstall the software. The **aol desktop gold download existing account** process allows current users to regain access after system upgrades, resets, or device changes.
 
 
